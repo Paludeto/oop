@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/gpaludeto/github/oop/ufc/ufc'
+relocations:     []
+...
